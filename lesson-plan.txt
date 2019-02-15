@@ -1,0 +1,30 @@
+SLIDES: https://slides.com/nick-turner/intro-to-react-workshop
+
+EXERCISE 1:
+  1. React functional components
+  2. Passing props
+  3. Iterating through an array of data and display output
+  4. Explain about why we need "key" when iterating data
+
+EXERCISE 2:
+  1. Using CSS and styles in components
+  2. React class components
+  3. Defining state in class components
+  4. Updating state on load (componentDidMount)
+  5. Passing state
+  6. Updating data in state
+
+EXERCISE 3:
+  1. Deleting data in state
+  2. Creating and using forms
+
+EXERCISE 4:
+  1. Calling external REST API
+  2. Working with promises
+  3. Spread props for passing bulk data
+
+EXERCISE 5:
+  1. Functional testing
+  2. Snapshot testing
+  3. Shallow and Mount testing
+  
